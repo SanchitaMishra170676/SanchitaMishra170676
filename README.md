@@ -1,4 +1,4 @@
-### Hi there 👋
+ <img src="https://github.com/SanchitaMishra170676/SanchitaMishra170676/blob/main/I'm%20SanchitA%20(1).png" width="100%">
 
 <!--
 **SanchitaMishra170676/SanchitaMishra170676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

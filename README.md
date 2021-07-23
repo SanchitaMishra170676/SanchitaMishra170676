@@ -3,7 +3,7 @@
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
   <samp>I am a student at KIET Group of Institutions, currently doing my Bachelors in Computer Engineering. 
-I am an open source enthusiast and an web development addict.
+I am an open source enthusiast and a web development addict.
 </samp><br>
 </p>
 

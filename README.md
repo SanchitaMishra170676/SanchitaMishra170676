@@ -7,6 +7,19 @@ I am an open source enthusiast and a web development addict.
 </samp><br>
 </p>
 
+<h2 align="center"> 🔭 Technology Stack</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/django%20-%2343853D.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/html5%20-%2343853D.svg?&style=for-the-badge&logo=html5&logoColor=white"     />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/css3%20-%2343853D.svg?&style=for-the-badge&logo=css3&logoColor=white " />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/javascript%20-%2343853D.svg?&style=for-the-badge&logo=javascript&logoColor=white " />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/python%20-%2342853D.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/java%20-%2343853D.svg?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/c++%20-%2343853D.svg?&style=for-the-badge&logo=c++&logoColor=white"/>&nbsp;&nbsp;
+ </p>
+
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/sanchitamishra170676/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;

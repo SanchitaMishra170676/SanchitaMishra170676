@@ -20,9 +20,42 @@ I am an open source enthusiast and a web development addict.
 <img src="https://img.shields.io/badge/c++%20-%2343853D.svg?&style=for-the-badge&logo=c++&logoColor=white"/>&nbsp;&nbsp;
  </p>
 
+<h2 align="center">Trophies</h2>
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanchitaMishra170676)](https://github.com/anuraghazra/github-readme-stats)
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=Siddhi-244)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+<div align="center">
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhi-244)](https://github.com/anuraghazra/github-readme-stats)
     </div> 
+    
+<div align="center">
+    
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddhi-244&show_icons=true)  
+<div>
+    
+ <div align="center">
+     
+     
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=siddhi-244&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+</div>
+    
+<div align="center">
+    
+![GitHub metrics](https://metrics.lecoq.io/Siddhi-244)  
+</div>
+    
+<div align="center">
+    
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Siddhi-244)  
+</div>
+    
+<div align="center">
+        
+![Profile views](https://gpvc.arturio.dev/Siddhi-244)  
+ </div>
+
 
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">

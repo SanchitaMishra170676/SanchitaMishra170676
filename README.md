@@ -43,7 +43,7 @@ I am an open source enthusiast and a web development addict.
     
 <div align="center">
     
-![GitHub metrics](https://metrics.lecoq.io/Siddhi-244)  
+![GitHub metrics](https://metrics.lecoq.io/SanchitaMishra170676)  
 </div>
     
 <div align="center">

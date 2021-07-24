@@ -21,9 +21,8 @@ I am an open source enthusiast and a web development addict.
  </p>
 
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanchitaMishra170676)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanchitaMishra170676)](https://github.com/anuraghazra/github-readme-stats)
     </div> 
-
 
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">

@@ -65,7 +65,7 @@ I am an open source enthusiast and a web development addict.
 </p>
 
 <p align="center">
-    <a href="https://github.com/siddhi-244"><img src="forkit.gif "/></a> 
+    <a href="https://github.com/SanchitaMishra170676"><img src="forkit.gif "/></a> 
 </p>
 <!--
 **SanchitaMishra170676/SanchitaMishra170676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

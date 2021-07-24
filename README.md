@@ -20,6 +20,11 @@ I am an open source enthusiast and a web development addict.
 <img src="https://img.shields.io/badge/c++%20-%2343853D.svg?&style=for-the-badge&logo=c++&logoColor=white"/>&nbsp;&nbsp;
  </p>
 
+<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanchitaMishra170676)]
+    </div> 
+
+
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/sanchitamishra170676/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
